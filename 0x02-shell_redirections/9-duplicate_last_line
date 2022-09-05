@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -l iata >> iata
+tail -l iacta >> iacta
